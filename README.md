@@ -133,7 +133,7 @@ The project includes the following types of visualizations:
 - **Dashboard Development**: Building a user-friendly, interactive interface with `Dash` to empower users to analyze data visually.
 
 ### Dashboard Functionality Demonstration
-Watch the video below to see the dashboard in action:
+Watch the video to see the dashboard in action:
 [![Watch the Dashboard Functionality Screencast](https://img.shields.io/badge/Watch%20Video-Click%20Here-blue)](https://github.com/SHAIMOOM251283/EcomAnalyzr/blob/main/DashboardScreencast.mp4)
 
 ## Future Improvements
